@@ -1,2 +1,3 @@
 foofoobar
 foo2.txt
+foo3.txt
