@@ -1,1 +1,2 @@
-foobar
+foofoobar
+foo2.txt
